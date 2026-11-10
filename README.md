@@ -18,7 +18,7 @@ Businesses get more reviews, emails and social media comments than people can re
 
 ## Technologies used
 
-- Python 3
+-    - Python 3.13+
 - uv for project and dependency management
 - TextBlob for sentiment analysis
 
@@ -31,7 +31,7 @@ uv sync
 ## How to run
 
 ```bash
-uv run python src/sentiment_analysis/sentiment_analysis.py
+   uv run sentiment-analysis
 ```
 
 ## Expected results
